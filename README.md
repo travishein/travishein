@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @travishein
 - 👀 I’m interested in music, electronics, photography, software engineering
-- 🌱 I’m currently learning Python web frameworks (Django)
+- 🌱 I’m currently learning Python web frameworks
 - 💞️ I’m looking to collaborate on music recording projects
 - 📫 My email is marsairforce at gmail dot com.
 
